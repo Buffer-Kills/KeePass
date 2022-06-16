@@ -1,4 +1,4 @@
-# Password Manager GUI
+# KeePass - Password Manager GUI
 A cool and tiny Password Manager in python.
 
 # Description
